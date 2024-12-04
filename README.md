@@ -1,5 +1,7 @@
 # video-streaming-backend
 
+# Why video streaming?
+
 
 ## User Stories
 
@@ -22,3 +24,5 @@
 - [ ] As a business, I want users to only have access to 2 devices.
 - [ ] As a user, I want to sign out
 - [ ] As a user, I want to sign in
+
+# Tech stack?
