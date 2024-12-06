@@ -1,5 +1,8 @@
 # video-streaming-backend
 
+# Architecture
+![Screenshot from 2024-12-06 14-25-40](https://github.com/user-attachments/assets/03756cf1-86b3-4672-8d6f-e594195a1828)
+
 # Why video streaming?
 
 
